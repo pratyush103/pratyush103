@@ -38,8 +38,7 @@ I'm passionate about building efficient, scalable applications that solve real-w
 </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=pratyush103&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=pratyush103&theme=dark&hide_border=true)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratyush103&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pratyush103/pratyush103/output/github-contribution-grid-snake-dark.svg">
@@ -47,4 +46,4 @@ I'm passionate about building efficient, scalable applications that solve real-w
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pratyush103/pratyush103/output/github-contribution-grid-snake.svg">
 </picture>
 
-<a href="https://github.com/pratyush103" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyush103&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pratyush103&theme=dark&hide_border=true)
